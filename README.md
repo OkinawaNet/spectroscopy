@@ -29,7 +29,7 @@
     - [Источники](sources/xrf_sources.md)
     - [Достоверность источников](sources/xrf_sources_reliability_report.md)
 
-## Дифференциальная сканирующая калориметрия и термогравиметрия (DSC/TGA)
+## Термический анализ минералов
 
 - [Методичка по термическому анализу минералов](thermal_method.md)
     - [Скачать PDF](https://raw.githubusercontent.com/OkinawaNet/spectroscopy/main/lib/thermal-method.pdf)
